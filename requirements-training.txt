@@ -1,0 +1,11 @@
+# For notebooks/3_volatility_prediction.ipynb outside Colab (Colab has these packages).
+# Install PyTorch for your GPU first: https://pytorch.org/get-started/locally/ (the paper used PyTorch 2.11).
+torch
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn
+matplotlib
+tqdm
+gdown
+jupyter

@@ -1,0 +1,15 @@
+# For notebooks/2_qa_embeddings.ipynb outside Colab (Colab has these packages). A CUDA GPU is needed.
+# Install PyTorch AND the torchvision version that belongs to it for your GPU first:
+# https://pytorch.org/get-started/locally/  (the Qwen2.5-Omni processor does not load without torchvision; it is not
+# listed below because pip, choosing it alone, could replace your PyTorch with another version).
+# The notebook itself installs the pinned transformers==5.20.1 and bitsandbytes==0.50.2, python-dotenv and gdown.
+# Unpacking the audio needs the zip and unzip commands on Linux, and 7-Zip on Windows.
+torch
+accelerate
+librosa
+soundfile
+pillow
+numpy>=1.24
+requests
+tqdm
+jupyter

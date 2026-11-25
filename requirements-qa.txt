@@ -1,0 +1,10 @@
+# For notebooks/1_qa_generation.ipynb outside Colab (Colab has these packages).
+# The notebook itself installs python-dotenv and gdown. Unpacking the archives needs the zip and unzip commands on Linux, and 7-Zip on Windows.
+openai
+numpy>=1.24
+pandas>=2.0
+scikit-learn
+matplotlib
+requests
+tqdm
+jupyter

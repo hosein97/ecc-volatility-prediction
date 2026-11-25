@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/tables/
+.DS_Store
+
+# files a local notebook run creates
+*_avg_val.csv
+qa-grounded-volatility-work/
+run_*.ipynb
+notebooks/repo/
+
+# an API key file must never be committed
+.env

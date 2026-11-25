@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Beyond Historical Volatility: QA-Grounded Multimodal Residual Correction for Earnings-Call Volatility Forecasting"
+repository-code: "https://github.com/hosein97/ecc-volatility-prediction"
+authors:
+  - family-names: Panahi
+    given-names: Mohammad Hosein
+  - family-names: Panahi
+    given-names: Ehsan
+  - family-names: Roman
+    given-names: Nicoleta
+  - family-names: Caragea
+    given-names: Doina
+preferred-citation:
+  type: conference-paper
+  title: "Beyond Historical Volatility: QA-Grounded Multimodal Residual Correction for Earnings-Call Volatility Forecasting"
+  authors:
+    - family-names: Panahi
+      given-names: Mohammad Hosein
+    - family-names: Panahi
+      given-names: Ehsan
+    - family-names: Roman
+      given-names: Nicoleta
+    - family-names: Caragea
+      given-names: Doina
+  collection-title: "Proceedings of the IEEE International Conference on Big Data"
+  year: 2026
